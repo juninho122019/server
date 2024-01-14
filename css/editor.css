@@ -1,0 +1,13 @@
+.editor {
+    resize: none;
+    height: auto;
+}
+
+.box {
+    font-size: 18px;  
+    cursor: pointer;
+}
+
+.atalhos {
+    margin-bottom: 13px;
+}
